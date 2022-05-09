@@ -1,0 +1,59 @@
+#rectangle{
+    width: 250px;
+    height: 250px;
+    border: 1px solid #070606;
+    text-align: center;
+    display: flex;
+    }
+    .outerborder{
+      width: 800px;
+      height: 500px;
+      border: 1px solid rgb(12, 3, 3);
+      text-align: center;
+      display: flex;
+      }
+      /* .completeborder{
+        width:1000;
+        height: 600px;
+        border: 1px solid rgb(103, 22, 22);
+        text-align: center;
+        display: flex;
+        } */
+.formlabel {
+  width: 170px;
+  text-align: right;
+  display:inline-block;
+}
+        .completeborder {
+          width: 100%;
+          border: 1px solid rgb(103, 22, 22);
+          text-align: center;
+        }
+  .heading{
+          display: inline-block;
+          margin: 0 auto;
+          padding: 3px;
+        }
+        .circle{
+          display: inline-block;
+          margin: 15% auto;
+          padding: 3px;
+          background-color: lightblue;
+          height:150px;
+        width:150px;
+        border-radius:50%
+        } 
+  
+  /* .custom-file-button input[type=file] {
+      margin-left: -2px !important;
+      margin-top: 5px !important;
+    }
+    
+    .custom-file-button input[type=file]::-webkit-file-upload-button {
+      display: none;
+    }
+    
+    .custom-file-button input[type=file]::file-selector-button {
+      display: none;
+    } */
+    
